@@ -2452,3 +2452,15 @@ login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAn4agAAAZCZAVuuAAA
 
 TUNNELS
 did-strict.gl.at.ply.gg:3313 => 127.0.0.1:25566 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720553933796 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAn4agAAAZCZAVuuAAAAAQAAAAEAAAAAAAAAAL7Jyu1l8NYw5GECNb7Kl1yYap5A7qlZOtLSD_gwHcnj
+
+TUNNELS
+did-strict.gl.at.ply.gg:3313 => 127.0.0.1:25566 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720553936891 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAn4agAAAZCZAZgYAAAAAQAAAAEAAAAAAAAAAPGxiRlBu8aguGOf2s4aDq092H5JkJ2AJvAj-S8xOtEV
+
+TUNNELS
+did-strict.gl.at.ply.gg:3313 => 127.0.0.1:25566 (proto: Both, port count: 1)
