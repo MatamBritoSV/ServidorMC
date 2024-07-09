@@ -15,7 +15,7 @@
 # jp		      Japón (Tokyo)
 # sa		      Sudamérica (São Paulo)
 # us		      Estados unidos (Ohio)
-# helloman:Dus-cal-1	      Estados unidos (California)
+# usaaa-cal-1	      Estados unidos (California)
 
 
 
